@@ -1,0 +1,13 @@
+Ogaga Ohere
+Frontend Development (Cohort 7)
+Techy Jaunt
+
+Part Two: Research and Reflection
+I regularly use Jumia.com.ng. It is an e-commerce website for the sale and delivery of wide range household items. I’ve always liked how categorized and structured it is. Users do not find it difficult to find items of interest, and it is quite vibrant in the colour scheme. Moreso, the website always looks “fresh” with promotional activities always ongoing; this makes one want to always check back in for more.
+I am hoping to build a platform that connects drivers with clients; more like Uber, but without cars.
+The aspects I enjoy most about frontend is the styling of elements and the interaction in between them. I enjoy designing and building functional structures. At the moment, I already have a foundation in design and have progressed as a Product Designer. Frontend takes me a step further, as I learn to bring designs to life and make them both responsive and intuitive.
+The only area that makes me nervous is the codes! Imagine just staring at a monochrome screen typing in symbols and text only. It is not like the regular Figma environment, where designing gives you butterflies. So yes, it can be quite boring, except I get to refresh my browser environment to see the immediate design feedback *winks*
+
+Part Three: Exploration
+I did an inspection of the Jumia website, LinkedIn and Youtube. I will not be able to correctly put my observations in technical terms. I just wholistically appraised the structure and read a few lines of code as they mirrored to the elements on the web page.
+
